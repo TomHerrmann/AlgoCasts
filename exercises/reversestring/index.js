@@ -16,7 +16,4 @@ function reverse(str) {
   return result;
 }
 
-console.log(reverse('apple'))
-console.log(reverse('hello'))
-
 module.exports = reverse;

@@ -17,6 +17,4 @@ function palindrome(str) {
   return true;
 }
 
-console.log(palindrome("abba"))
-
 module.exports = palindrome;
